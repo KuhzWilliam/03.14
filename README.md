@@ -1,2 +1,11 @@
 # 03.14
-A getbootstraped mappa [getbootstraped](https://github.com/KuhzWilliam/03.14/tree/main/getbootstraped)
+[Getbootstraped](https://github.com/KuhzWilliam/03.14/tree/main/getbootstraped)
+[Órarend](https://github.com/KuhzWilliam/03.14/tree/main/%C3%B3rarend)
+[Yoko](https://github.com/KuhzWilliam/03.14/tree/main/yoko)
+[Pitagorasz](https://github.com/KuhzWilliam/03.14/tree/main/pitagorasz)
+[Tterület](https://github.com/KuhzWilliam/03.14/tree/main/Ter%C3%BClet)
+[Rubik](https://github.com/KuhzWilliam/03.14/tree/main/Rubik)
+[Papirbrikett](https://github.com/KuhzWilliam/03.14/tree/main/Papirbrikett)
+[LeMans](https://github.com/KuhzWilliam/03.14/tree/main/LeMans)
+[GIT](https://github.com/KuhzWilliam/03.14/tree/main/GIT)
+[Búbos Banka](https://github.com/KuhzWilliam/03.14/tree/main/B%C3%BAbos%20banka)
