@@ -1,0 +1,24 @@
+td{
+    border: 2px solid;
+    width: 90px;
+    height: 90px;
+}
+table{
+    border-collapse: collapse;
+    text-align: center;
+    background-image: url(360_F_490197897_W2s6kwI2Zd2r0tIYRtQbLpiyInWbrvv6.jpg);
+}
+.blackground{
+    background-image: url(thumbnail_mehwart_f1dce688ee.webp);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.vilagos{
+    background-color: blanchedalmond;
+}
+.sotet{
+    background-color: lightsalmon;
+}
+.horizon{
+    rotate: 0.5turn;
+}

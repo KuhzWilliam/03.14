@@ -1,0 +1,14 @@
+.keret{
+    align-self: center;
+    background-color: cornsilk;
+    margin: auto
+}
+h1{
+    text-align: center;
+}
+img{
+    float: right;
+}
+#keret{
+    width: 200px;
+}

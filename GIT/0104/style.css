@@ -1,0 +1,23 @@
+h1{
+    text-align:center;
+    font-size: 222%;
+    margin: 0px 0px 10px;
+  }
+  
+h2{
+    margin: 0px 0px 10px;
+    color: grey;
+  }
+.keret{
+  background-color: cornsilk;
+}
+.keret2{
+  background-color: cornsilk;
+}
+#container{
+  width: 80%;
+  margin: auto;
+  border: 5px solid beige;
+  padding: 20px;
+  border-radius: 50px 50px;
+}
